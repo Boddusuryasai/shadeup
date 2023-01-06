@@ -17,9 +17,7 @@ To convert a hexadecimal color to RGB, enter the hexadecimal value in the input 
 
 To use the color display, simply enter a hexadecimal or RGB color value in the input field and press the "show" button. The color display will update to show the corresponding color.
 
-You can also click the "Random Color" button to have the color display show a randomly generated color.
-
-To pick a random color, click the "Hit Me" button. The corresponding RGB and hexadecimal values of the random color will be displayed in the output fields.
+To pick a random color, click the "Hit Me" button. The corresponding hexadecimal value of the random color will be displayed along with color in the background 
 
 ## Technologies
 
